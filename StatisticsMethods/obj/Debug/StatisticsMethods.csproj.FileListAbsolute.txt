@@ -1,0 +1,11 @@
+E:\C# Demo\StatisticsMethods\StatisticsMethods\bin\Debug\StatisticsMethods.dll
+E:\C# Demo\StatisticsMethods\StatisticsMethods\bin\Debug\StatisticsMethods.pdb
+E:\C# Demo\StatisticsMethods\StatisticsMethods\bin\Debug\MathNet.Numerics.dll
+E:\C# Demo\StatisticsMethods\StatisticsMethods\bin\Debug\MathNet.Numerics.IO.dll
+E:\C# Demo\StatisticsMethods\StatisticsMethods\bin\Debug\MathNet.Numerics.pdb
+E:\C# Demo\StatisticsMethods\StatisticsMethods\bin\Debug\MathNet.Numerics.xml
+E:\C# Demo\StatisticsMethods\StatisticsMethods\bin\Debug\MathNet.Numerics.IO.pdb
+E:\C# Demo\StatisticsMethods\StatisticsMethods\bin\Debug\MathNet.Numerics.IO.xml
+E:\C# Demo\StatisticsMethods\StatisticsMethods\obj\Debug\StatisticsMethods.dll
+E:\C# Demo\StatisticsMethods\StatisticsMethods\obj\Debug\StatisticsMethods.pdb
+E:\C# Demo\StatisticsMethods\StatisticsMethods\obj\Debug\StatisticsMethods.csprojResolveAssemblyReference.cache
